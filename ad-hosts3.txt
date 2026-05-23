@@ -1,5 +1,6 @@
 # Amp
 # update 2023 01 17
+# update 2026 05 23
 
 # https://raw.githubusercontent.com/anudeepnd/youtubeadsblacklist/master/domainlist.txt
 # https://raw.githubusercontent.com/eltonlivera/pihole-adlist/master/hosts
@@ -94,7 +95,6 @@ inwapp.com
 iqbroker.com
 istartsurf.com
 jaguarsauthenticjerseys.com
-lap-click.tr.line.me
 lavasoft
 likeboykan.com
 lovebagsshop.com
